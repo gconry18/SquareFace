@@ -1,0 +1,192 @@
+{
+    "appKeys": {
+        "KEY_BACKGROUND": 1,
+        "KEY_DATE": 2,
+        "KEY_GRAPHPERIOD": 3,
+        "KEY_INVERT": 0
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "GarethC",
+    "longName": "GraphFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ico.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICO",
+                "type": "png"
+            },
+            {
+                "file": "images/disconnected.png",
+                "name": "IMAGE_BT_DISCONNECTED",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/charge.png",
+                "name": "IMAGE_CHARGE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-dash.png",
+                "name": "IMAGE_DATE_DASH",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-9.png",
+                "name": "IMAGE_DATE_9",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-8.png",
+                "name": "IMAGE_DATE_8",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-7.png",
+                "name": "IMAGE_DATE_7",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-6.png",
+                "name": "IMAGE_DATE_6",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-5.png",
+                "name": "IMAGE_DATE_5",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-4.png",
+                "name": "IMAGE_DATE_4",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-3.png",
+                "name": "IMAGE_DATE_3",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-2.png",
+                "name": "IMAGE_DATE_2",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-1.png",
+                "name": "IMAGE_DATE_1",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/date-0.png",
+                "name": "IMAGE_DATE_0",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-1.png",
+                "name": "IMAGE_TIME_1",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-colon.png",
+                "name": "IMAGE_TIME_COLON",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-5.png",
+                "name": "IMAGE_TIME_5",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-9.png",
+                "name": "IMAGE_TIME_9",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-8.png",
+                "name": "IMAGE_TIME_8",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-7.png",
+                "name": "IMAGE_TIME_7",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-6.png",
+                "name": "IMAGE_TIME_6",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-4.png",
+                "name": "IMAGE_TIME_4",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-3.png",
+                "name": "IMAGE_TIME_3",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-2.png",
+                "name": "IMAGE_TIME_2",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/time-0.png",
+                "name": "IMAGE_TIME_0",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/SquareFace.png",
+                "name": "IMAGE_SQUAREFACE_BACKGROUND",
+                "type": "png-trans"
+            },
+            {
+                "file": "fonts/visitor2.ttf",
+                "name": "FONT_VISITOR_NORMAL_42",
+                "type": "font"
+            },
+            {
+                "file": "fonts/visitor2.ttf",
+                "name": "FONT_VISITOR_NORMAL_28",
+                "type": "font"
+            },
+            {
+                "file": "fonts/visitor2.ttf",
+                "name": "FONT_VISITOR_NORMAL_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Square.ttf",
+                "name": "FONT_SQUARE_NORMAL_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Square.ttf",
+                "name": "FONT_SQUARE_NORMAL_28",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Square.ttf",
+                "name": "FONT_SQUARE_NORMAL_42",
+                "type": "font"
+            },
+            {
+                "file": "fonts/DS-DIGI.TTF",
+                "name": "FONT_DSDIGI_NORMAL_14",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "GraphFace",
+    "uuid": "33e81ca4-c8f0-4596-bf32-7bd2b6ab6ef0",
+    "versionCode": 1,
+    "versionLabel": "0.8",
+    "watchapp": {
+        "watchface": true
+    }
+}
